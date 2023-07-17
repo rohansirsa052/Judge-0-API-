@@ -1,0 +1,113 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  background-color: blanchedalmond;
+  font-family: "Baloo Bhai", cursive;
+}
+.btn {
+  position: absolute;
+  left: 202px;
+  top: 85vh;
+  font-family: "Baloo Bhai", cursive;
+  margin: 0px 9px;
+  background-color: black;
+  color: white;
+  padding: 4px 14px;
+  border: 2px solid grey;
+  border-radius: 10px;
+  font-size: 20px;
+  cursor: pointer;
+  margin-top: 18px;
+}
+.btn2 {
+  position: absolute;
+  left: 100px;
+  top: 85vh;
+
+  font-family: "Baloo Bhai", cursive;
+  margin: 0px 9px;
+  background-color: black;
+  color: white;
+  padding: 4px 14px;
+  border: 2px solid grey;
+  border-radius: 10px;
+  font-size: 20px;
+  cursor: pointer;
+  margin-top: 18px;
+}
+.btn3 {
+  position: absolute;
+  left: 280px;
+  top: 85vh;
+  font-family: "Baloo Bhai", cursive;
+  margin: 0px 9px;
+  background-color: black;
+  color: white;
+  padding: 4px 14px;
+  border: 2px solid grey;
+  border-radius: 10px;
+  font-size: 20px;
+  cursor: pointer;
+  margin-top: 18px;
+}
+.burger {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+}
+h1 {
+  color: blueviolet;
+  padding-bottom: 10px;
+}
+h2{text-align: left;
+    font-size: medium;
+    color: rgb(11, 7, 15);
+    left: 180px;
+    position: absolute;
+    top: 90px;
+}
+#myWords {
+  position: absolute;
+  left: 20px;
+  top: 130px;
+  background-color: rgb(38 36 33);
+  padding: 2px;
+  margin: 2px;
+  border: 20px solid red;
+  border-radius: 10px;
+  box-shadow: 20px 30px 10px rgb(30, 29, 31);
+  text-shadow: 2px 3px 4px solid red;
+  color: aliceblue;
+}
+
+#myWords2 {
+  position: absolute;
+  right: 20px;
+  top: 130px;
+  background-color: rgb(38 36 33);
+  padding: 2px;
+  margin: 2px;
+  border: 7px solid red;
+  border-radius: 10px;
+  box-shadow: 20px 30px 10px rgb(30, 29, 31);
+  text-shadow: 2px 3px 4px solid red;
+  color: aliceblue;
+  height: 340px;
+  width: 23%;
+}
+
+.output{
+  position: absolute;
+    right: 2px;
+    top: -50px;
+    left: 41%
+}
+
+.response{
+
+  padding: 3px 6px;
+  background-color: rgb(38 36 33);
+}
